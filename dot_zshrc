@@ -1,0 +1,15 @@
+# Load Antidote
+source '/usr/share/zsh-antidote/antidote.zsh'
+antidote load
+# Aliases
+alias vim="nvim"
+alias cat="bat"
+alias ls="lsd"
+alias gp="git push"
+alias ga="git add"
+alias gc="git clone"
+alias gcm="git commit -m"
+# Vim in Terminal
+ZVM_VI_INSERT_ESCAPE_BINDKEY=jk
+# Starship
+eval "$(starship init zsh)"

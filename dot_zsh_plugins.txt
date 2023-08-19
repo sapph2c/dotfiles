@@ -1,0 +1,5 @@
+zsh-users/zsh-autosuggestions
+wfxr/forgit
+jeffreytse/zsh-vi-mode
+zdharma-continuum/fast-syntax-highlighting kind:defer
+MichaelAquilina/zsh-autoswitch-virtualenv kind:defer
